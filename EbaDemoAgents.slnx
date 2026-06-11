@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="EbaDemoAgents.Tests/EbaDemoAgents.Tests.csproj" />
+  <Project Path="EbaDemoAgents/EbaDemoAgents.csproj" />
+</Solution>
